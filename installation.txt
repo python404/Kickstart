@@ -1,0 +1,3 @@
+#Installing kickstart for CentOS 6
+yum install system-config-kickstart -y 
+system-config-kickstart 
